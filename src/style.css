@@ -9,9 +9,11 @@ body {
   padding: 30px;
   box-shadow: 0 30 px 50 px rgba(65, 40, 100, 0.08);
   border-radius: 16px;
+  font-family: "Quicksand", sans-serif;
 }
 
 .search-form-input {
+  font-family: "Quicksand", sans-serif;
   background: #f9f7fe;
   border: none;
   border-radius: 6px;
@@ -21,6 +23,7 @@ body {
 }
 
 .search-form-button {
+  font-family: "Quicksand", sans-serif;
   background: rgb(53, 175, 106);
   padding: 15px 20px;
   border: none;
