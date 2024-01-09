@@ -1,3 +1,13 @@
 body {
-  background: blue;
+  background: #f9f7fe;
+  font-family: "Playfair Display", serif;
+  font-family: "PT Mono", monospace;
+}
+.weather-app {
+  background: white;
+  max-width: 600px;
+  margin: 45px auto;
+  padding: 30px;
+  box-shadow: 0 30 px 50 px rgba(65, 40, 100, 0.08);
+  border-radius: 16px;
 }
