@@ -2,6 +2,10 @@ body {
   background: #f9f7fe;
   font-family: "Quicksand", sans-serif;
 }
+
+a {
+  color: rgb(53, 175, 106);
+}
 .weather-app {
   background: white;
   max-width: 600px;
@@ -12,6 +16,10 @@ body {
   font-family: "Quicksand", sans-serif;
 }
 
+header {
+  border-bottom: 1px solid #f9f7fe;
+  padding: 0 0 30px 0;
+}
 .search-form-input {
   background: #f9f7fe;
   border: none;
@@ -30,4 +38,12 @@ body {
   border-radius: 6px;
   margin-left: 5px;
   color: white;
+}
+
+footer {
+  border-bottom: 1px solid #f9f7fe;
+  padding: 30px 0 0 0;
+  text-align: center;
+  font-size: 13px;
+  color: rgba(0, 0, 0, 0.6);
 }
