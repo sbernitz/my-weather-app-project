@@ -1,7 +1,6 @@
 body {
   background: #f9f7fe;
-  font-family: "Playfair Display", serif;
-  font-family: "PT Mono", monospace;
+  font-family: "Quicksand", sans-serif;
 }
 .weather-app {
   background: white;
