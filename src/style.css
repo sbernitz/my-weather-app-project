@@ -13,7 +13,6 @@ body {
 }
 
 .search-form-input {
-  font-family: "Quicksand", sans-serif;
   background: #f9f7fe;
   border: none;
   border-radius: 6px;
@@ -23,11 +22,11 @@ body {
 }
 
 .search-form-button {
-  font-family: "Quicksand", sans-serif;
   background: rgb(53, 175, 106);
   padding: 15px 20px;
   border: none;
   font-size: 16px;
+  font-weight: 600px;
   border-radius: 6px;
   margin-left: 5px;
   color: white;
