@@ -22,8 +22,9 @@ body {
 
 .search-form-button {
   background: rgb(53, 175, 106);
-  padding: 15px 30px;
+  padding: 15px 20px;
   border: none;
+  font-size: 16px;
   border-radius: 6px;
   margin-left: 5px;
   color: white;
