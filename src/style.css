@@ -42,6 +42,7 @@ header {
 }
 .search-form-input {
   background: #f0f1f5;
+  font-family: "Quicksand", sans-serif;
   border: none;
   border-radius: 6px;
   width: 80%;
@@ -50,7 +51,9 @@ header {
 }
 
 .search-form-button {
-  background: #6643b5;
+  background: #8594e4;
+  font-family: "Quicksand", sans-serif;
+  font-weight: 400;
   padding: 15px 20px;
   border: none;
   font-size: 16px;
@@ -58,6 +61,12 @@ header {
   border-radius: 6px;
   margin-left: 5px;
   color: white;
+}
+
+.search-form-button:hover {
+  background: #6643b5;
+  transition: all 0.2s linear 0s;
+  cursor: grab;
 }
 
 main {
