@@ -78,7 +78,7 @@ main {
 }
 .weather-app-city {
   margin: 0;
-  font-size: 38px;
+  font-size: 42px;
   line-height: 48px;
 }
 
@@ -107,7 +107,7 @@ main {
   margin-left: 10px;
 }
 .weather-app-unit {
-  margin-top: 6px;
+  margin-top: 10px;
   font-size: 28px;
 }
 .weather-forecast {
