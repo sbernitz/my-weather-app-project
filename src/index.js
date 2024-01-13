@@ -18,6 +18,7 @@ function refreshWeather(response) {
   iconElement.innerHTML = `<img src="${response.data.condition.icon_url}" class="weather-app-icon" />`;
 
   getForecast(response.data.city);
+  //city is well spelled
 }
 
 function formatDate(date) {
